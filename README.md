@@ -69,7 +69,7 @@ Great, make sure you **save the view.js file** (Mac: Command-S, Windows: Ctrl-S)
 
 A) Open up the file in the root directory called, `index.html`:
 
-<img src="https://raw.githubusercontent.com/OperationSpark/using-c9/master/img/open-index.html.png">
+<img src="https://raw.githubusercontent.com/OperationSpark/drawing-and-animation/master/img/open-index.html.png">
 
 B) **With the index.html tab selected**, **click the "Play" button**:
 
