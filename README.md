@@ -61,9 +61,17 @@ p.initialize = function () {
 
 The simplified `draw.rect()` API takes values for `width`, `height` `color` and `strokeColor`, the color of the border.  We pass the result of the `draw.rect()` to the `view.addChild()` method, which adds the Shape to the display list.
 
-Great, **save the file** (Mac: Command-S, Windows: Ctrl-S), then run the app by:
+### RUN THE APP
 
-A) **Selecting the index.html tab**, then **clicking the "Play" button**:
+**NOTE:** You will only have to run the app ONCE!  Once runnng, you'll leave the app open in a separage browser tab, and switch back and forth while working.
+
+Great, make sure you **save the view.js file** (Mac: Command-S, Windows: Ctrl-S), then run the app by:
+
+A) Open up the file in the root directory called, `index.html`:
+
+<img src="https://raw.githubusercontent.com/OperationSpark/using-c9/master/img/open-index.html.png">
+
+B) **With the index.html tab selected**, **click the "Play" button**:
 
 <img src="https://raw.githubusercontent.com/OperationSpark/using-c9/master/img/running-index.html.png">
 
@@ -71,7 +79,7 @@ Upon doing so, wait a second, and in your Console View at the bottom of the IDE,
 
 <img src="https://raw.githubusercontent.com/OperationSpark/using-c9/master/img/apache-serving-web-page.png">
 
-B) Now copy (Mac: Command-C, Windows: Ctrl-C) the URL after the log mesage: `Staring Apache httpd, serving`.  The URL should be:
+C) Now copy (Mac: Command-C, Windows: Ctrl-C) the URL after the log mesage: `Staring Apache httpd, serving`.  The URL should be:
 
     https://drawing-and-animation-myuser.c9.io/index.html.
     
@@ -79,11 +87,11 @@ Make sure you don't copy the trailing _period_, if you do, don't worry, just del
 
 <img src="https://raw.githubusercontent.com/OperationSpark/using-c9/master/img/copy-server-url.png">
 
-C) Once copied, open up a new tab in Chrome, and paste that URL into the address bar:
+D) Once copied, open up a new tab in Chrome, and paste that URL into the address bar:
 
 <img src="https://raw.githubusercontent.com/OperationSpark/using-c9/master/img/pasting-url.png">
 
-D) Finally, after pasting the URL in the address bar, press `enter`:
+E) Finally, after pasting the URL in the address bar, press `enter`:
 
 <img src="https://raw.githubusercontent.com/OperationSpark/drawing-and-animation/master/img/background.png">
 
