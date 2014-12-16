@@ -13,7 +13,7 @@ Select "Clone From URL".
 
         https://github.com/OperationSpark/drawing-and-animation.git
 
-3. In the environment selection box, select "Node".
+3. In the environment selection box, select "HTML5".
 4. Finally, click the green button "Create".
 5. Once the workspace is completed (while spooling up, you'll see a spinning gear on the newly created workspace in the sidebar), click the green button, "Start Editing".
 
